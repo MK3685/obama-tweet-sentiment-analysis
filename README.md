@@ -71,7 +71,7 @@ Analyzed using **VADER** sentiment analysis from the `nltk.sentiment` module.
 
 Measured by tweet character length as a simple "popularity" proxy.
 
-![Popularity](images/popularity score.png)
+![Popularity score](images/popularity_score.png)
 ---
 
 ## 🧪 How to Run
